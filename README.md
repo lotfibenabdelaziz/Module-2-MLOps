@@ -1,6 +1,6 @@
 [![CI for Python Project](https://github.com/lotfibenabdelaziz/Module-2-MLOps/actions/workflows/testing-
 ci.yml/badge.svg)](https://github.com/lotfibenabdelaziz/Module-2-MLOps/actions/workflows/testing-ci.yml)
-# Python CI Project
+# Testing-CI Project
 
 This project demonstrates a clean Python setup using:
 
@@ -33,7 +33,7 @@ make format      # Format code using black
 make lint        # Lint code with pylint
 make all         # Run install, lint, test, and format in one shot
 
-.github/workflows/ci.yml
+.github/workflows/testing-ci.yml
 
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
